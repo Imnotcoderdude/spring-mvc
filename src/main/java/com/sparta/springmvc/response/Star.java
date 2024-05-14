@@ -11,6 +11,6 @@ public class Star {
         this.name = name;
         this.age = age;
     }
-
+    // 기본 생성자
     public Star() {}
 }
